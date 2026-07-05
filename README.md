@@ -4,5 +4,7 @@ Just for learning purposes
 
 
 
-Salut ! Acesta este primul meu proiect gestionat cu github
+Salut ! Acesta este primul meu proiect gestionat cu GitHub
+
+Am mai adaugat inca ceva !
 
