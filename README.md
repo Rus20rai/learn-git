@@ -8,3 +8,13 @@ Salut ! Acesta este primul meu proiect gestionat cu GitHub
 
 Am mai adaugat inca ceva !
 
+
+
+\## Tehnologii folosite
+
+\* HTML5
+
+\* CSS3
+
+\* Git \& GitHub
+
